@@ -17,10 +17,10 @@ The goal of this challenge was to build a responsive 3-column preview card compo
 
 ### Screenshot
 
-![Desktop Preview](./screenshot-desktop.png)  
+![Desktop Preview](./images/desktop-design.jpg)  
 _Desktop version_
 
-![Mobile Preview](./screenshot-mobile.png)  
+![Mobile Preview](./images/mobile-design.jpg)  
 _Mobile version_
 
 ---
@@ -38,9 +38,7 @@ _Mobile version_
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
 - Responsive design techniques
-- [Font Awesome](https://fontawesome.com/) for icons (if applicable)
 
 ---
 
@@ -48,9 +46,8 @@ _Mobile version_
 
 This project helped me practice:
 
-- Using **Flexbox** for creating responsive layouts.
-- Customizing button hover effects.
 - Structuring reusable CSS properties for easy customization.
+- Creating responsive layouts.
 
 ---
 
@@ -77,5 +74,5 @@ I plan to:
 - **Name:** Mohamed Ali
 - **GitHub:** [@Mohamed-A-7](https://github.com/Mohamed-A-7)
 - **LinkedIn:** [Mohamed-7-Okasha](https://www.linkedin.com/in/mohamed-7-okasha/)
-- **Qabilah Profile:** [Mohamed-A-7 on Qabilah](https://qabilah.com/profile/mohamed-a-7)
+- **Qabilah:** [Mohamed-A-7 on Qabilah](https://qabilah.com/profile/mohamed-a-7)
 - **Email:** mohamed-a-7@outlook.com
