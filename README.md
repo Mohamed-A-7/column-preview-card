@@ -27,8 +27,8 @@ _Mobile version_
 
 ### Links
 
-- **GitHub Repository:** [3-column-preview-card-component](https://github.com/Mohamed-A-7/3-column-preview-card-component)
-- **Live Demo:** [Check it here](https://mohamed-a-7.github.io/3-column-preview-card-component/)
+- **GitHub Repository:** [3-column-preview-card-component](https://github.com/Mohamed-A-7/column-preview-card)
+- **Live Demo:** [Check it here](https://mohamed-a-7.github.io/column-preview-card/)
 
 ---
 
